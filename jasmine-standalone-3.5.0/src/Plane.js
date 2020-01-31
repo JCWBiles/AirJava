@@ -1,2 +1,4 @@
-// const Plane = function () {}
+'use strict';
 
+function Plane(){}
+Plane.prototype.land = function(){};
